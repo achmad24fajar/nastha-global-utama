@@ -1,0 +1,14 @@
+body {
+  background: #d9e1ee !important;
+}
+.search {
+  width: 20%;
+}
+.error {
+  position: absolute;
+  color: red;
+  font-size: 12px;
+}
+.remove {
+  position: absolute;
+}
